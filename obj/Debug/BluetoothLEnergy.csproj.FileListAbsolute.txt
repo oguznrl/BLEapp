@@ -1,0 +1,14 @@
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\GattClient.exe.config
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\GattClient.exe
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\GattClient.pdb
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\wclBluetoothFramework.xml
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\wclCommon.xml
+C:\Users\oguzn\source\repos\BluetootLEnergy\bin\Debug\wclCommunication.xml
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\BluetoothLEnergy.csprojAssemblyReference.cache
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\GattClient.Properties.Resources.resources
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\BluetoothLEnergy.csproj.GenerateResource.cache
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\BluetoothLEnergy.csproj.CoreCompileInputs.cache
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\BluetoothLEnergy.csproj.CopyComplete
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\GattClient.exe
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\GattClient.pdb
+C:\Users\oguzn\source\repos\BluetootLEnergy\obj\Debug\BluetoothLEnergy.fmMain.resources
